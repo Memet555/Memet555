@@ -1,15 +1,17 @@
-# Hi there, I'm Memet! 👋
+# Hi there, I'm Memet Orakcı! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Memet555&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/memet-orakci-025511419/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:memetorakci5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Memet555&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
-Computer / Software Engineer passionate about building scalable **Backend Architectures**, **Data-Driven Artificial Intelligence / Machine Learning models**, and **Industrial Discrete Event Simulations**. Experienced in end-to-end software development from database architecture and enterprise systems to intelligent automation.
+Information Systems & Technologies Graduate from **Mersin University (2026)**. Passionate Software Engineer specializing in scalable **Backend Architectures (.NET Core / Python)**, **Data-Driven Artificial Intelligence & Machine Learning**, and **Industrial Discrete Event Simulations (SimPy)**. 
 
-- 🔭 Currently working on: Enterprise Web Solutions, AI/ML Applications, and Operational Research Simulations.
-- 🌱 Exploring: Advanced Cloud Architectures, Distributed Systems, and High-Performance Backend Engineering.
-- ⚡ Fun fact: I enjoy solving complex optimization problems, queueing models, and building clean user experiences.
+- 💼 **Internship Experience:** Developed an Enterprise Intranet Web Portal and embeddable customer chatbot at **Bossa T.A.Ş.**
+- 🔭 **Currently working on:** Enterprise Web Solutions, AI/ML Predictive Systems, and Operations Research Modeling.
+- 📬 **Reach me at:** [memetorakci5@gmail.com](mailto:memetorakci5@gmail.com) or [LinkedIn](https://www.linkedin.com/in/memet-orakci-025511419/)
 
 ---
 
@@ -17,11 +19,11 @@ Computer / Software Engineer passionate about building scalable **Backend Archit
 
 | Domain | Technologies & Frameworks |
 |---|---|
-| **Programming Languages** | `C#`, `Python`, `JavaScript (ES6+)`, `SQL` |
+| **Programming Languages** | `C#`, `Python`, `JavaScript (ES6+)`, `SQL`, `Dart` |
 | **Backend & Web Development** | `ASP.NET Core 8.0 MVC`, `Entity Framework Core`, `Node.js`, `Express.js`, `Streamlit`, `HTML5/CSS3`, `Bootstrap` |
 | **Data Science & Machine Learning** | `TensorFlow / Keras (CNN)`, `scikit-learn`, `WEKA (Data Mining & KDD)`, `scikit-fuzzy`, `Pandas`, `NumPy` |
 | **Simulation & Modeling** | `SimPy (Discrete Event Simulation)`, `Queueing Theory`, `Plotly`, `Matplotlib` |
-| **Databases & ORM** | `Microsoft SQL Server`, `SQLite`, `Entity Framework Core Migrations` |
+| **Databases & ORM** | `Microsoft SQL Server`, `SQLite3`, `Entity Framework Core Migrations` |
 | **Cybersecurity & Networking** | `Scapy (Packet Sniffing / IDS)`, `SHA-256 Cryptography`, `RBAC (Role-Based Access Control)` |
 | **Game & Desktop Development** | `Unity (C# 2D Physics)`, `Tkinter / ttkbootstrap`, `PyInstaller` |
 | **Developer Tools** | `Git`, `GitHub CLI`, `Visual Studio`, `VS Code` |
@@ -34,7 +36,7 @@ Computer / Software Engineer passionate about building scalable **Backend Archit
   <tr>
     <td width="50%">
       <h3 align="center">🏢 Corporate Web Portal</h3>
-      <p>Enterprise intranet portal built with <b>ASP.NET Core 8.0 MVC</b> and <b>Entity Framework Core</b>. Features dynamic page creation, announcement/document workflows, ClosedXML Excel reporting, and role-based access control.</p>
+      <p>Enterprise intranet portal built with <b>ASP.NET Core 8.0 MVC</b> and <b>Entity Framework Core</b> for Bossa T.A.Ş. Features dynamic page creation, announcement/document workflows, and ClosedXML Excel reporting.</p>
       <p align="center">
         <a href="https://github.com/Memet555/corporate-web-portal-aspnet"><b>Explore Repository →</b></a>
       </p>
